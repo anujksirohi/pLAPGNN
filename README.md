@@ -1,5 +1,5 @@
 
-<h1 align="center">Enhancing Robustness of Graph Neural Networks through $p$-Laplacian </h1>
+<h2 align="center">Enhancing Robustness of Graph Neural Networks through $p$-Laplacian </h1>
 
 
 ## Requirements
