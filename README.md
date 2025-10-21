@@ -1,4 +1,3 @@
-# pLAPGNN
 
 <h1 align="center">Enhancing Robustness of Graph Neural Networks through p-Laplacian </h1>
 
@@ -19,10 +18,9 @@ python setup.py install
 ```
 
 ## Run the code
-
+``
 python train.py --two_stage y --seed 10  --dataset cora --attack no --ptb_rate 0 --epochs 200  --epochs_pre 400 --alpha 1.0  --gamma 1.0 --beta 0.10 --lr_optim 1e-2 --lr 1e-3 
 ```
-
 
 ## Acknowledgements
 The code is based on :
